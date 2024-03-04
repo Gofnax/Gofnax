@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm currently studying for a software engineering degree in Afeka College in TLV.
 
 <!--
 **Gofnax/Gofnax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
